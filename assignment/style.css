@@ -1,6 +1,44 @@
 /* Give your page a fun background color */
-
+body {
+  background-color: #A3B495;
+  }
 /* Make the header and footer a different color from the background */
+h1 {
+  background-color: #CDD0D0;
+  text-align: center;
+
+}
+footer {
+  background-color: #549E99;
+}
+img {
+  border: 3px solid #00000f;
+  vertical-align: middle;
+
+
+
+}
+p {
+  color: #2B3C47;
+  font-style: italic;
+  font-size: 18px;
+}
+
+ul {
+  font-family: verdana, geneva, sans-serif;
+
+
+
+
+}
+.image_float {
+  float: left;
+
+}
+
+
+
+
 
 /* Align the h1 containing your name in the center of the header*/
 
