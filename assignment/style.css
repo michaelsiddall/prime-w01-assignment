@@ -1,40 +1,41 @@
 /* Give your page a fun background color */
 body {
-  background-color: #A3B495;
+  background-color: #A8C6DA;
   }
 /* Make the header and footer a different color from the background */
 h1 {
   background-color: #CDD0D0;
   text-align: center;
+  font-size: 50px;
+
 
 }
+
+h2 {
+  text-align: center;
+}
+
 footer {
-  background-color: #549E99;
+  background-color: #0A99F8;
+  text-align: center;
+  font-size: 18px;
 }
 img {
   border: 3px solid #00000f;
   vertical-align: middle;
-
-
-
 }
 p {
-  color: #2B3C47;
+  color: #FFFFFF;
   font-style: italic;
-  font-size: 18px;
+  font-size: 22px;
 }
 
 ul {
-  font-family: verdana, geneva, sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: 26px;
 
 
 
-
-}
-.image_float {
-  float: left;
-
-}
 
 
 
