@@ -34,6 +34,13 @@ ul {
   font-family: Tahoma, Geneva, sans-serif;
   font-size: 26px;
 
+  .image-container {
+    text-align: center;
+  }
+  img {
+    width: 400px;
+    height: 400px;
+  }
 
 
 
